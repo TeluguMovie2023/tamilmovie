@@ -425,21 +425,21 @@
 	"MovieSlider":[
 		{
 			"id": 1,
-			"Video_Id": "QTMq1kjSmAo",
+			"Video_Id": "VfWc1qIQ2xE",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Pichaikkaran 2",
-			"Movieimg":"https://i.ytimg.com/vi/QTMq1kjSmAo/maxresdefault.jpg",
+			"Movie_name": "Aneethi",
+			"Movieimg":"https://i.ytimg.com/vi/VfWc1qIQ2xE/maxresdefault.jpg",
             "Description": "",
             "Language": "Tamil"
 		},
 		{
 			"id": 2,
-			"Video_Id": "bSgwdIfJxqE",
+			"Video_Id": "7MnPeSmDoiE",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Mark Antony",
-			"Movieimg":"https://i.ytimg.com/vi/bSgwdIfJxqE/maxresdefault.jpg",
+			"Movie_name": "DD Returns",
+			"Movieimg":"https://i.ytimg.com/vi/7MnPeSmDoiE/maxresdefault.jpg",
             "Description": "",
             "Language": "Tamil"
 		},
