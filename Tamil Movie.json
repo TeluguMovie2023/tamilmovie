@@ -490,6 +490,20 @@
 			"Movie_name": "Panchamirtham",
 			"Description": "Rajaram, a millionaire, is cheated by his own domestic servants. When Seetha tries to stop them, they hire hitmen to kill her.",
 			"Movieimg": "https://i.ytimg.com/vi/xctmEmROo6M/maxresdefault.jpg"
+		},
+		{
+			"id": 71,
+			"Video_Id": "h19YMdrEICQ",
+			"Movie_name": "Saamy²",
+			"Description": "Ramasaamy, who works as a front-end receptionist for Union Minister Viswanathan, decides to pursue civil service. Soon, Viswanathan's daughter falls in love with him after he saves her from gangsters.",
+			"Movieimg": "https://static.toiimg.com/photo/msid-61983657/61983657.jpg"
+		},
+		{
+			"id": 72,
+			"Video_Id": "mbrbMaDN_NE",
+			"Movie_name": "Jersey",
+			"Description": "Arjun, a talented but failed cricketer, decides to return to cricket in his late thirties, driven by the desire to represent the Indian cricket team and fulfil his son's wish for a jersey as a gift.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNmI2NmZlZTQtMmU1OS00ODk5LTk5MjYtMTJlODkzYTAxODFhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg"
 		}
 	],
 	"MovieSlider":[
