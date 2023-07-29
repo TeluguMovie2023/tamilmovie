@@ -476,6 +476,20 @@
 			"Movie_name": "Namadhu India",
 			"Description": "The story revolves around four different characters in four different situations. Sairam (Mohanlal) is an assistant manager in a departmental store.",
 			"Movieimg": "https://m.media-amazon.com/images/I/71kNGux3flL._RI_.jpg"
+		},
+		{
+			"id": 69,
+			"Video_Id": "3yZp2mwN8O8",
+			"Movie_name": "Dasavatharam",
+			"Description": "After realising the danger of a bioweapon, a scientist strives to protect it from being misused. When the vial accidentally reaches India, he races against time to prevent a potential disaster.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNTIwYWFlYjItMWM4Yy00ZjlmLWIyODQtYmFmMTYyZTc3MjRkXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 70,
+			"Video_Id": "xctmEmROo6M",
+			"Movie_name": "Panchamirtham",
+			"Description": "Rajaram, a millionaire, is cheated by his own domestic servants. When Seetha tries to stop them, they hire hitmen to kill her.",
+			"Movieimg": "https://i.ytimg.com/vi/xctmEmROo6M/maxresdefault.jpg"
 		}
 	],
 	"MovieSlider":[
