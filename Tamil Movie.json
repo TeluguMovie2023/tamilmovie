@@ -504,6 +504,20 @@
 			"Movie_name": "Jersey",
 			"Description": "Arjun, a talented but failed cricketer, decides to return to cricket in his late thirties, driven by the desire to represent the Indian cricket team and fulfil his son's wish for a jersey as a gift.",
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNmI2NmZlZTQtMmU1OS00ODk5LTk5MjYtMTJlODkzYTAxODFhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg"
+		},
+		{
+			"id": 73,
+			"Video_Id": "tHYT1nftTR4",
+			"Movie_name": "Veerame Vaagai Soodum",
+			"Description": "A young man aspires to follow in his father's footsteps and become a police officer. However, when his sister is killed, he takes matters into his own hands to catch the culprits.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYmJkNzFhMTktYThjOS00ZGYxLTk0MWEtNjE2NmYwMTQ4MTE4XkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 74,
+			"Video_Id": "sHo87CtNMvE",
+			"Movie_name": "L7",
+			"Description": "Arun and Sandhya, a newly married couple, move into a new home to begin their marital life. However, Arun soon realises that his wife is possessed and he must do whatever it takes to save her.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BN2E2ODA0YTMtYjQ3NS00ZTg2LTljNjEtOWUyNjY4YWQ0OGU3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg"
 		}
 	],
 	"MovieSlider":[
