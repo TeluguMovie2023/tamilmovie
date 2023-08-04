@@ -9,7 +9,7 @@
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMDVjNDI4MTEtODU4OS00OGM0LTk1OTItNTJiMzIwYTA2Nzg2XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_FMjpg_UX1000_.jpg"
 		},
 		{
-			"id": 1,
+			"id": 2,
 			"Video_Id": "dkUnk9UY2Mw",
 			"Movie_name": "Kadhal Pisachi",
 			"Description": "Bhavani, a teenager, loses her life in an accident. However, she continues to haunt Siddharth, the man who tried to save her life and drives him to uncover the identity of the culprit who killed her.",
@@ -509,6 +509,26 @@
 	"MovieSlider":[
 		{
 			"id": 1,
+			"Video_Id": "Y5BeWdODPqo",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "JAILER",
+			"Movieimg":"https://i.ytimg.com/vi/Y5BeWdODPqo/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Tamil"
+		},
+		{
+			"id": 2,
+			"Video_Id": "XUZZppYRNLE",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "LGM",
+			"Movieimg":"https://i.ytimg.com/vi/XUZZppYRNLE/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Tamil"
+		},
+		{
+			"id": 3,
 			"Video_Id": "VfWc1qIQ2xE",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -518,7 +538,7 @@
             "Language": "Tamil"
 		},
 		{
-			"id": 2,
+			"id": 4,
 			"Video_Id": "7MnPeSmDoiE",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -528,7 +548,7 @@
             "Language": "Tamil"
 		},
 		{
-			"id": 3,
+			"id": 5,
 			"Video_Id": "I4EywNIuBIk",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -538,7 +558,7 @@
             "Language": "Tamil"
 		},
 		{
-			"id": 4,
+			"id": 6,
 			"Video_Id": "IFJpD1Z73ac",
 			"qurekaimg":"",
 			"qurekaimg2":"",
@@ -548,7 +568,7 @@
             "Language": "Tamil"
 		},
 		{
-			"id": 5,
+			"id": 7,
 			"Video_Id": "cZ9ii7-0XwA",
 			"qurekaimg":"",
 			"qurekaimg2":"",
